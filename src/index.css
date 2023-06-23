@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-1{
+  background-image: url(https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/PHCNCW6TF5AFRFAZKMEL4FEJ5U.jpg);
+}
